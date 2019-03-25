@@ -2,7 +2,7 @@ title: Curso QGIS
 description: Repositório de dados do curso
 show_downloads: true
 github:
-  zip_url: https://github.com/geosaber/dados/tree/master/download.zip
-  another_url: https://github.com/geosaber/dados/tree/master/download.tar.gz
+  zip_url: https://github.com/geosaber/dados/zipball/master
+  another_url: https://github.com/geosaber/dados/tarball/master
 google_analytics:
 theme: jekyll-theme-tactile
