@@ -1,5 +1,8 @@
 title: Curso QGIS
 description: Repositório de dados do curso
 show_downloads: true
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
 google_analytics:
 theme: jekyll-theme-tactile
