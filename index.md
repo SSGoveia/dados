@@ -2,8 +2,8 @@
 layout: default
 ---
 # Base de dados do Curso de QGIS+R
->*A regressão linear é usada para prever o valor de uma variável de resultado Y com base em uma ou mais variáveis preditoras de entrada X. O objetivo é estabelecer uma relação linear (uma fórmula matemática) entre a variável(s) preditora e a variável resposta, dessa forma, podemos usar essa fórmula para estimar o valor da resposta Y, quando apenas os valores dos preditores (Xs) são conhecidos.*
-- [Linear Regression](http://r-statistics.co/Linear-Regression.html)
+>*A regressão linear é usada para prever o valor de uma variável contínua Y com base em uma ou mais variáveis preditoras de entrada X. O objetivo é estabelecer uma fórmula matemática entre a variável resposta (Y) e as variáveis preditoras (Xs). Você pode usar essa fórmula para prever Y, quando apenas valores X são conhecidos*
+- [Linear Regression in R](https://www.machinelearningplus.com/machine-learning/complete-introduction-linear-regression-r)
 
 ## Dados disponíveis:
 * Apostilas
